@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InternalStrorge</string>
+    <string name="SAVA">SAVA</string>
+    <string name="FilContent">FilContent</string>
+    <string name="DISPLAY">DISPLAY</string>
+    <string name="LOAD">LOAD</string>
+    <string name="FILI_NAME">FILI_NAME</string>
+
+</resources>
